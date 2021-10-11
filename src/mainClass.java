@@ -5,7 +5,7 @@ public class mainClass {
     
     /**
      * @param args the command line arguments
-     * @authors stef4k
+     * @authors stef4k & AdamAvrantinis
      */
     public static void main(String[] args) {
         
