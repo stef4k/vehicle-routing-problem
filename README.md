@@ -17,14 +17,19 @@ b. 15 trucks with a maximum capacity of 1200 kg.
 
 <b> The goal is to minimize the sum of distances that all the trucks travel. </b>
 
-## Solution Examples
+## Running the application
+Run the following command from the command line:
+
+    java -jar "Vehicle routing problem executable.jar"
+
+## Solutions
 ### VND Solution
-A produced VND solution can be seen with the sum distance of `1399 km`:
+The produced VND solution can be seen with the sum distance of `1399 km`:
 
 <img src="https://github.com/stef4k/Vehicle-routing-problem/blob/main/images/VND%20end%20solution.png" width="600" height="600" />
 
 ### VRP Solution
-A produced VRP solution can be seen with the sum distance of `1476 km`
+The produced VRP solution can be seen with the sum distance of `1476 km`
 
 <img src="https://github.com/stef4k/Vehicle-routing-problem/blob/main/images/VRP%20end%20solution.png" width="600" height="600" />
 
