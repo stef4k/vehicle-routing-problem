@@ -1,4 +1,4 @@
-# Vehicle-routing-problem
+# Vehicle routing problem
 Assignment for the course [Optimization Methods in Management Science](https://www.dept.aueb.gr/en/dmst/content/optimization-methods-management-science) of the 3rd year winter semester.
 
 ## Description
