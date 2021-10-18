@@ -20,7 +20,7 @@ b. 15 trucks with a maximum capacity of 1200 kg.
 ## Running the application
 Run the following command from the command line:
 
-    java -jar Vehicle-routing-problem-executable.jar
+    java -jar vehicle-routing-problem-executable.jar
 
 ## Solutions
 ### VND Solution
